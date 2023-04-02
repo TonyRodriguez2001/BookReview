@@ -31,8 +31,12 @@ gem 'bootsnap', '>= 1.4.4', require: false
 group :production do
   gem 'pg', '~> 0.21' # for Heroku deployment
   gem 'rails_12factor'
+<<<<<<< HEAD
 end
  
+=======
+end 
+>>>>>>> 919eb8c68dd07c512a1dae904cb5151b05e33626
 
 group :development, :test do
   # Use sqlite3 as the database for Active Record
@@ -41,7 +45,10 @@ group :development, :test do
   gem 'byebug', platforms: [:mri, :mingw, :x64_mingw]
 end
 
+<<<<<<< HEAD
 
+=======
+>>>>>>> 919eb8c68dd07c512a1dae904cb5151b05e33626
 group :development do
   # Access an interactive console on exception pages or by calling 'console' anywhere in the code.
   gem 'web-console', '>= 4.1.0'

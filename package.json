@@ -2,13 +2,19 @@
   "name": "book-review",
   "private": true,
   "dependencies": {
+<<<<<<< HEAD
     "@popperjs/core": "^2.11.7",
+=======
+>>>>>>> 919eb8c68dd07c512a1dae904cb5151b05e33626
     "@rails/actioncable": "^6.0.0",
     "@rails/activestorage": "^6.0.0",
     "@rails/ujs": "^6.0.0",
     "@rails/webpacker": "5.4.4",
+<<<<<<< HEAD
     "bootstrap": "^5.2.3",
     "jquery": "^3.6.4",
+=======
+>>>>>>> 919eb8c68dd07c512a1dae904cb5151b05e33626
     "turbolinks": "^5.2.0",
     "webpack": "^4.46.0",
     "webpack-cli": "^3.3.12"
